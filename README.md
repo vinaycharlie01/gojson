@@ -6,6 +6,7 @@ gojson generates go struct definitions from json or yaml documents.
 
 
 <!--  -->
+Hello world
 Example
 ----------
 
